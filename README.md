@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100089927324866" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" target = "_blank" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target = "_blank" />
   </a>
 </div>
 
