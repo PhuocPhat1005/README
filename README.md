@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **CoTAI Talents**
 
- ✍️ I'm currently studying at **Ho Chi Minh University of Science**, **National University of Ho Chi Minh City**
+ ✍️ I'm currently studying at **University of Science**, **National University of Ho Chi Minh City**
  
  🌱 I’m currently learning **C++ , Python, Java, Javscripts, FastAPI, SQLModel**
 
@@ -67,7 +67,7 @@
 <br/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Le+Phuoc+Phat😽;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+Thanks+for+Watching😽;" />
 </h1>
 
 <br/>
