@@ -36,6 +36,9 @@
     <a href="mailto:22127322@student.hcmus.edu.vn">
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target = "_blank">        
     </a>
+    <a href = "https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2Fhenryle355%3Figshid%3DOGQ5ZDc2ODk2ZA%253D%253D%26fbclid%3DIwAR3S3mLlmy33W1gLOoRD6aG7YM-aC6XMYSZue7yLv9tYdFGKK6JsZ0J6TF8&h=AT0KNNHBY682SPvSn5hbKpztYLaxEqVGYMpShInVwpg13Wb1SQaEQQy7OonehC3FKhKttj4Patg3YrqgfXsJ-4JZnUk6joFKEo_oAD854s5pGST7qBoFU05w8E5f7CvP2GrUhg">
+        <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target = "_blank" />
+    </a>
 </div>
 
  <hr/>
