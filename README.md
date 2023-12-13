@@ -57,15 +57,6 @@
     <h2>📺 Latest YouTube Videos 📺</h2>
 </div>
 
-<div>
-    <ul>
-        <li>
-            <iframe width="560" height="315" src="https://youtu.be/zi8hFksplgs?si=jcqZ7Gg2AsfIriMr" frameborder="0" allowfullscreen></iframe>
-            <p>Description of Video 1</p>
-        </li>
-    </ul>
-</div>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
