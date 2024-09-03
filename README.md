@@ -74,6 +74,16 @@
 </div>
 <!-- END YOUTUBE-CARDS -->
 
+<h2 align="center">📺 Latest YouTube Videos 📺</h2>
+
+<table>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=VRUof7FLu6c"><img src="https://ytcards.demolab.com/?id=VRUof7FLu6c&title=Emotional+ChatBot&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=8:49" alt="Emotional ChatBot"/></a></td>
+    <td><a href="https://www.youtube.com/watch?v=zi8hFksplgs"><img src="https://ytcards.demolab.com/?id=zi8hFksplgs&title=Document+ChatBot+Q+-+A&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=3:18" alt="Document ChatBot Q - A"/></a></td>
+    <td><a href="https://www.youtube.com/watch?v=AUKowyjpIHE"><img src="https://ytcards.demolab.com/?id=AUKowyjpIHE&title=Project+Design+Pattern+OOP&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=15:14" alt="Project Design Pattern OOP"/></a></td>
+    <td><a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID"><img src="https://ytcards.demolab.com/?id=YOUR_VIDEO_ID&title=Your+Video+Title&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=36:35" alt="Your Video Title"/></a></td>
+  </tr>
+</table>
 
 
 
