@@ -58,27 +58,6 @@
 </div>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <a href="https://www.youtube.com/watch?v=VRUof7FLu6c">
-    <img src="https://ytcards.demolab.com/?id=VRUof7FLu6c&title=Emotional+ChatBot&lang=en&timestamp=VRUof7FLu6c&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529" alt="Emotional ChatBot Q&A" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=zi8hFksplgs">
-    <img src="https://ytcards.demolab.com/?id=zi8hFksplgs&title=Document+ChatBot+Q+-+A&lang=en&timestamp=zi8hFksplgs&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198" alt="Document ChatBot Q&A" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=AUKowyjpIHE">
-    <img src="https://ytcards.demolab.com/?id=AUKowyjpIHE&title=Project+Design+Pattern+OOP&lang=en&timestamp=AUKowyjpIHE&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=914" alt="Project Design Pattern OOP" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=-wloHUp86EU">
-    <img src="https://ytcards.demolab.com/?id=-wloHUp86EU&title=Online+Book+Store+UI+Demo&lang=en&timestamp=-wloHUp86EU&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2195" alt="Online Book Store UI Demo" />
-  </a>
-</div>
-<!-- END YOUTUBE-CARDS -->
-
-<h2 align="center">📺 Latest YouTube Videos 📺</h2>
-
-<!-- BEGIN YOUTUBE-CARDS -->
-<h2 align="center">📺 Latest YouTube Videos 📺</h2>
-
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.youtube.com/watch?v=VRUof7FLu6c"><img src="https://ytcards.demolab.com/?id=VRUof7FLu6c&title=Emotional+ChatBot&lang=en&timestamp=VRUof7FLu6c&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529" alt="Emotional ChatBot Q&A"/></a>
   <a href="https://www.youtube.com/watch?v=zi8hFksplgs"><img src="https://ytcards.demolab.com/?id=zi8hFksplgs&title=Document+ChatBot+Q+-+A&lang=en&timestamp=zi8hFksplgs&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198" alt="Document ChatBot Q&A"/></a>
