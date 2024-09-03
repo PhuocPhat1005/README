@@ -60,7 +60,7 @@
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Emotional ChatBot](https://ytcards.demolab.com/?id=VRUof7FLu6c&title=Emotional+ChatBot&lang=en&timestamp=VRUof7FLu6c&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529 "Emotional ChatBot Q&A")](https://www.youtube.com/watch?v=VRUof7FLu6c)
 [![Document ChatBot Q-A](https://ytcards.demolab.com/?id=zi8hFksplgs&title=Document+ChatBot+Q+-+A&lang=en&timestamp=zi8hFksplgs&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198 "Document ChatBot Q&A")](https://www.youtube.com/watch?v=zi8hFksplgs)
-[![Project Design Pattern OOP](https://ytcards.demolab.com/?id=AUKowyjpIHE&title=Project+Design+Pattern+OOP&lang=en&timestamp=AUKowyjpIHE&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=440 "Project Design Pattern OOP")](https://www.youtube.com/watch?v=AUKowyjpIHE)
+[![Project Design Pattern OOP](https://ytcards.demolab.com/?id=AUKowyjpIHE&title=Project+Design+Pattern+OOP&lang=en&timestamp=AUKowyjpIHE&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=914 "Project Design Pattern OOP")](https://www.youtube.com/watch?v=AUKowyjpIHE)
 [![Online Book Store UI Demo](https://ytcards.demolab.com/?id=-wloHUp86EU&title=Online+Book+Store+UI+Demo&lang=en&timestamp=-wloHUp86EU&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2195 "Online Book Store UI Demo")](https://www.youtube.com/watch?v=-wloHUp86EU)
 <!-- END YOUTUBE-CARDS -->
 
