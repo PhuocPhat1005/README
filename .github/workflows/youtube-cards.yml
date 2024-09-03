@@ -9,7 +9,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - uses: PhuocPhat1005/github-readme-youtube-cards@main
         with:
           channel_id: UCD7UqwlMVrtY1wGGNYxYv4g
           comment_tag_name: YOUTUBE-CARDS
